@@ -1,6 +1,6 @@
 ### The_Leslie_Matrix_Model ###
-A biological simulation that uses **Linear Algebra** and **Eigenvalue Analysis** to forecast population growth based on age groups.
-This project uses the **Leslie Matrix model**, a time-based method from population ecology. It separates the population into age classes (Larvae, Juveniles, Adults) and applies a transition matrix to track survival rates and reproduction over time
+A biological simulation that uses linear algebra and eigenvalue analysis to forecast population growth based on age groups.
+This project uses the Leslie Matrix model, a time-based method from population ecology. It separates the population into age classes (Larvae, Juveniles, Adults) and applies a transition matrix to track survival rates and reproduction over time
 
 Mathematical Concepts Used -
 
