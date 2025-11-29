@@ -11,7 +11,7 @@ Mathematical Concepts Used -
    3.	λ=1: Population is stable.
 
 How to run :
-  Ensure you have Python installed.
+    Ensure you have Python installed.
  	Install the required dependencies.
  	pip install numpy matplotlib
  	Run ‘main.py’.
@@ -24,4 +24,4 @@ Project structure –
      	simulation.png  {Code demo (f=[0, 0, 34], p=[0.5,0.4])}
      	increasing.png   # λ > 1 (growing population)
      	stable.png   # λ = 1 (stable population)
-    	 decreasing.png   # λ < 1 (shrinking population)
+    	decreasing.png   # λ < 1 (shrinking population)
