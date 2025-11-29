@@ -21,7 +21,7 @@ Project structure –
  	main.py [ All-in-one program: Leslie Matrix + simulation + graphs].
  	README.md [ Instructions and explanation].
  	output/plots [Simulation results].
-     	simulation.png  {Code demo (f=, p=[0.5,0.4])}
+     	simulation.png  {Code demo (f=[0, 0, 34], p=[0.5,0.4])}
      	increasing.png   # λ > 1 (growing population)
      	stable.png   # λ = 1 (stable population)
     	 decreasing.png   # λ < 1 (shrinking population)
